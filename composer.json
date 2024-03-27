@@ -1,0 +1,17 @@
+{
+    "name": "devi/mailer_poc",
+    "description": "PHPMailer POC",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devi\\MailerPoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devishke-orange"
+        }
+    ],
+    "require": {}
+}
